@@ -1,4 +1,5 @@
 Passo a passo para extrair texto de imagens usando o Azure Vision
+
 1️⃣ Criar uma conta
 Antes de começar, é necessário criar uma conta no Azure.
 
