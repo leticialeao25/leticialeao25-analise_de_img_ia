@@ -38,6 +38,9 @@ Após a criação do laboratório, você será redirecionado para outra aba para
 6️⃣ Acessando o Serviço Criado
 Após a criação do laboratório, você será redirecionado para o painel do recurso. Agora, siga os passos abaixo para configurar e testar a extração de texto:
 
+![image](https://github.com/user-attachments/assets/aab82c7f-2fd3-4d92-84d2-bdeb7fe4b584)
+
+
 No menu à esquerda, clique em "Chaves e Endpoint".
 Anote a chave da API e o endpoint, pois eles serão necessários para utilizar o serviço.
 
