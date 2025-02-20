@@ -12,6 +12,10 @@ Na próxima página, à esquerda, você verá a seção "Categoria", onde são l
 ![image](https://github.com/user-attachments/assets/ec88b11f-3c17-4130-b177-1daa15a75600) 
 
 
+![image](https://github.com/user-attachments/assets/658a7c63-ac74-4c9a-a896-d3fad21ba8e7)
+
+
+
  ![image](https://github.com/user-attachments/assets/0865ecf4-2587-4170-ae1d-fd3b6e813357)
 
  
