@@ -35,4 +35,17 @@ Na parte inferior da página, clique em "Continue to create your resource", que 
 
 Após a criação do laboratório, você será redirecionado para outra aba para concluir o processo.
 
+6️⃣ Acessando o Serviço Criado
+Após a criação do laboratório, você será redirecionado para o painel do recurso. Agora, siga os passos abaixo para configurar e testar a extração de texto:
+
+No menu à esquerda, clique em "Chaves e Endpoint".
+Anote a chave da API e o endpoint, pois eles serão necessários para utilizar o serviço.
+
+7️⃣ Testando a Extração de Texto no Portal
+O Azure Vision permite testar a extração de texto diretamente no portal antes de integrá-lo ao código.
+
+Acesse o Azure Vision OCR Demo.
+Clique em "Upload" e selecione uma imagem contendo texto.
+O serviço processará a imagem e exibirá o texto extraído.
+
 
