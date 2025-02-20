@@ -13,6 +13,8 @@ No portal, clique na opção "Criar um Recurso", localizada no menu à esquerda,
 Na próxima página, à esquerda, você verá a seção "Categoria", onde são listados os tipos de grupos disponíveis. Escolha "IA + Machine Learning" (primeira opção abaixo de "Categorias").
  ![image](https://github.com/user-attachments/assets/0865ecf4-2587-4170-ae1d-fd3b6e813357)
 
+ 
+
 
  ![image](https://github.com/user-attachments/assets/2ce66b40-baa5-4787-be12-64336a079851)
 
