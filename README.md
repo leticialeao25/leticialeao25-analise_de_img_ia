@@ -29,6 +29,8 @@ Na próxima página, à esquerda, você verá a seção "Categoria", onde são l
 Após selecionar "IA + Machine Learning", no centro da página aparecerão várias seções com recursos dessa categoria.
 Em "Serviço de Linguagem", clique na opção "Criar".
 Na parte inferior da página, clique em "Continue to create your resource", que iniciará a criação do laboratório.
+
+
 5️⃣ Finalizando a configuração
 
 Após a criação do laboratório, você será redirecionado para outra aba para concluir o processo.
