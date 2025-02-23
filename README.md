@@ -69,7 +69,7 @@ Após a criação do laboratório, você será redirecionado para outra aba para
 
  ![image](https://github.com/user-attachments/assets/2ce66b40-baa5-4787-be12-64336a079851)
 
-Clicar na opção ir para "Recurso"
+ 7️⃣ Clicar na opção ir para "Recurso"
 
 
 
@@ -81,8 +81,8 @@ Clicar na opção ir para "Recurso"
 Veja se o Laboratório foi criado. Caso sim aparecerá em "Recursos" e "Registros".
 ![image](https://github.com/user-attachments/assets/ecd9df91-e947-4b0b-b3a1-f84dbf370ece)
 
-5️⃣
-Acessando o Serviço Criado
+
+ 8️⃣ Acessando o Serviço Criado
 
 Após a criação do laboratório, você será redirecionado para o painel do recurso. Agora, siga os passos abaixo para configurar e testar a extração de texto: 
 
@@ -92,18 +92,33 @@ Na última opção em "Language Studio" clique no link "Get started with Languag
 
 
 Escolher a Ferramenta de Extração de Texto
+
 No painel principal, clique em "Experimentar" (Try It).
 Selecione "Extração de Texto"
-![image](https://github.com/user-attachments/assets/87adf425-0536-47d6-8c7a-4bc170b8db74)
+
+![image](https://github.com/user-attachments/assets/065b515b-e815-42a7-95f5-dbc841262e15)
 
 
 
-Inserir o Texto para Extração
+
+
+ 9️⃣ Inserir o Texto para Extração
+
 Clique na caixa de entrada de texto.
+
 Digite um texto manualmente ou cole um trecho de um documento.
+
 Se quiser testar com uma imagem ou PDF, veja se há a opção de upload (algumas versões podem não suportar).
 
+![image](https://github.com/user-attachments/assets/b1d2e2a5-c3dc-4bf9-9011-d9fd05ed02e4)
 
+
+Conclusão
+✅ O Azure retorna os dados extraídos no formato JSON.
+
+✅ Ele organiza o texto em regiões, linhas e palavras.
+
+✅ Você pode processar esse JSON em qualquer linguagem de programação para utilizar os resultados.
 
 
 
