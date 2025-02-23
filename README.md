@@ -114,6 +114,7 @@ Se quiser testar com uma imagem ou PDF, veja se há a opção de upload (algumas
 
 
 Conclusão
+
 ✅ O Azure retorna os dados extraídos no formato JSON.
 
 ✅ Ele organiza o texto em regiões, linhas e palavras.
