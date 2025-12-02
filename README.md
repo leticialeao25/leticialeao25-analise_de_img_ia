@@ -42,11 +42,11 @@ Na tela de criação do recurso, preencha os seguintes campos:
 
 Subscription: Selecione a assinatura ativa (se for uma conta gratuita, escolha "Free Trial").
 
-Resource Group: Clique em "Create new" e dê um nome ao grupo de recursos (por exemplo, meu-grupo-de-recursos).
+Resource Group: Clique em "Create new"  e dê um nome ao grupo de recursos (por exemplo, meu-grupo-de-recursos).
 
-Region: Escolha a região mais próxima ou recomendada.
+Region(Região): Escolha a região mais próxima ou recomendada.
 
-Name: Escolha um nome para o recurso (exemplo: meu-servico-de-visao).
+Name(Nome): Escolha um nome para o recurso (exemplo: meu-servico-de-visao).
 
 Pricing Tier: Selecione o plano adequado (para testes, escolha o F0 - Free se disponível).
 
@@ -55,7 +55,7 @@ Pricing Tier: Selecione o plano adequado (para testes, escolha o F0 - Free se di
 
 
 
-Obs.: não esqueça de flegar a caixa de confirmação de aceite de termos. Caso essa opçao não esteja flegada o serviço não vai ser concluído. 
+Obs.: não esqueça de flegar a caixa de confirmação de aceite de termos(na parte inferior da página). Caso essa opção não esteja flegada o serviço não vai ser concluído. 
 ![image](https://github.com/user-attachments/assets/41adb3f9-818f-4f55-af41-3858b7121ffa)
 
 
